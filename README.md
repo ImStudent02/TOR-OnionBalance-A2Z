@@ -35,7 +35,7 @@ Users only see one onion address while traffic is distributed across multiple ba
 
 ---
 
-Requrments: TOR, Python, OnionBalance
+Requirements: TOR, Python, OnionBalance
 
 TOR : https://archive.torproject.org/tor-package-archive/torbrowser/
 
